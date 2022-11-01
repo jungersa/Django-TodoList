@@ -1,0 +1,6 @@
+# Django
+# ------------------------------------------------------------------------------
+django==4.0.8  # pyup: < 4.1  # https://www.djangoproject.com/
+django-environ==0.9.0  # https://github.com/joke2k/django-environ
+django-crispy-forms==1.14.0  # https://github.com/django-crispy-forms/django-crispy-forms Make forms look better
+crispy-bootstrap5==0.6  # https://github.com/django-crispy-forms/crispy-bootstrap5
